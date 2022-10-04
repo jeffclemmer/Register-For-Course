@@ -34,7 +34,7 @@ let catalog = [
   },
   {
     // unique integer
-    id: 1,
+    id: 2,
 
     // string, unique course name
     name: "science200",
